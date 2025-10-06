@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblaba2_proj_lib.a CMakeFiles/laba2_proj_lib.dir/src/eleven.cpp.o
+/usr/bin/ranlib liblaba2_proj_lib.a
